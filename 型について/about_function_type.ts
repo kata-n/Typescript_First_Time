@@ -1,3 +1,4 @@
-function add(num1, num2) {
+//関数
+function add(num1: number, num2: number): number {
   return num1 + num2
 }
